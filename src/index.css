@@ -1,19 +1,17 @@
 :root {
   background-color: gray;
   color: white;
+  display: flex;
+  align-items: center;
 
 }
 
 header {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
+  
 
 }
 
 Button {
-  display: inline-block;
-  align-items: center;
   text-align: center;
   border-radius: 1rem;
   padding-left: 1rem;

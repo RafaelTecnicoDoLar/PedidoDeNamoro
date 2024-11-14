@@ -1,0 +1,17 @@
+Header {
+    display: flex;
+    justify-content: center;
+
+}
+
+.Titulo {
+    font-family: "Caveat", cursive;
+    font-size: 4rem;
+
+}
+
+.ImagemCoracao {
+    height: 20%;
+    width: 20%;
+
+}
